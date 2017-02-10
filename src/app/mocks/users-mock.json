@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "firstName": "John",
+      "lastName": "Doe",
+      "cityId": 2,
+      "status" : 1,
+      "utc": 2
+    },
+    {
+      "id": 0,
+      "firstName": "Mary",
+      "lastName": "Johnson",
+      "cityId": 1,
+      "status" : 0,
+      "utc": 2
+    },
+    {
+      "id": 0,
+      "firstName": "Lala",
+      "lastName": "Loops",
+      "cityId": 4,
+      "status" : 1,
+      "utc": 3
+    }
+  ]
+}
